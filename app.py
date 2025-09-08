@@ -19,6 +19,8 @@ number_2 = st.number_input(
     step=1
 )
 
-number = number_1 + number_2
+number_add = number_1 + number_2
+number_multiple    = number_1 * number_2
 
-st.write(f"入力された数値の合計は {number} です。")
+st.write(f"入力された数値の合計は {number_add} です。")
+st.write(f"入力された数値の積は {number_multiple} です。")
