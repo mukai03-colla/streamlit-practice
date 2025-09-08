@@ -21,4 +21,4 @@ number_2 = st.number_input(
 
 number = number_1 + number_2
 
-st.write(f"入力された数値は {number} です。")
+st.write(f"入力された数値の合計は {number} です。")
