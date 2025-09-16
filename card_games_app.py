@@ -26,6 +26,8 @@ import streamlit as st
 #st.write(f"入力された数値の合計は {number_add} です。")
 #st.write(f"入力された数値の積は {number_multiple} です。")
 
+st.title("カードゲームアプリへようこそ")
+
 # 初期化
 if "count" not in st.session_state:
     st.session_state.count = 0
