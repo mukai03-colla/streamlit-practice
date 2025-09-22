@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "base_card": 11,
+    "choice": "Low",
+    "result_card": 4,
+    "outcome": "win",
+    "chips_after": 110
+  }
+]
