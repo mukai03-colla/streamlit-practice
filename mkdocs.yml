@@ -1,0 +1,12 @@
+site_name: Card Game App
+site_url: https://mukai03-colla.github.io/streamlit-practice/
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - High and Low Game: howtouse/high_and_low.md
+repo_url: https://github.com/mukai03-colla/streamlit-practice
+extra:
+  version:
+    provider: mike
