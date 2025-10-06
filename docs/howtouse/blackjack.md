@@ -1,6 +1,6 @@
-## まだ未完なので遊ばないでください
+## たぶん遊べる？
 
-[🎮 ゲームをプレイする](https://app-practice-46hurdshsjvazbbbrhytkl.streamlit.app/)
+[🎮 ゲームをプレイする](https://app-practice-ay4p7bsdrgnbpa6r5ntegv.streamlit.app/)
 
 ## ♠ ブラックジャック ♥ ルール説明
 
